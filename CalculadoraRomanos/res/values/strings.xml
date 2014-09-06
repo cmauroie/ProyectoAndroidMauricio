@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"> Calculadora Romana </string>
+    <string name="simbolo1"> I </string>
+    <string name="simbolo2"> V </string>
+    <string name="simbolo3"> X </string>
+    <string name="simbolo4"> L </string>
+    <string name="simbolo5"> C </string>
+    <string name="simbolo6"> D </string>
+    <string name="simbolo7"> M </string>
+    <string name="Simbolo_igual"> = </string>
+    <string name="Simbolo_suma"> + </string>
+    <string name="clear">clc </string>
+    
+    
+
+</resources>
